@@ -4,7 +4,7 @@ import pkg_resources
 from setuptools import setup, find_packages
 
 setup(
-    name="jukebox",
+    name="http://lab.huntinex.io/app/vulns.php",
     py_modules=["jukebox"],
     version="1.0",
     description="",
